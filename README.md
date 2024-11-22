@@ -1,16 +1,54 @@
-## Hi there 👋
+# **[Download]()**
 
-<!--
-**HumberRox/HumberRox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Features 
+### * ＶＩＳＵＡＬ-ＰＬＡＹＥＲ 
+- Ｅｎａｂｌｅｄ
+- Ｎａｍｅ
+-   Ｄｉｓｔａｎｃｅ
+-    ２Ｄ ｂｏｘ
+-   ３Ｄ Ｂｏｘ
+-  Ｌｉｎｅｓ
+- Ｓｋｅｌｅｔｏｎ
+- Ｍａｘ. ｄｉｓｔａｎｃｅ
+-    ＶＩＳＵＡＬＳ ＯＴＨＥＲＳ
+-  Ｉｎｃｌｕｄｅ ｏｔｈｅｒｓ
+-  Ｄｉｓｔａｎｃｅ
+-   Ｎａｍｅ
+-   Ｂｏｘ ２Ｄ
+-  Ｂｏｘ ３Ｄ
+- ＳｎａｐＬｉｎｅ
+-    ＥＳＰ ＳＥＴＴＩＮＧＳ
+-   Ａｎｉｍａｌｓ
+-  Ｖｅｈｉｃｌｅｓ
+-   Ｍｏｎｓｔｅｒｓ
+-   ＮＰＳ
+-   Ｄｅｖｉａｔｉｏｎ ｂｏｘ 
+- Ｌｏｏｔｂｏｘ 
+- Ｗｅａｐｏｎｓ 
+- Ａｌｌ ｅｎｔｉｔｉｅｓ
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with develop
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - ＡＩＭＢＯＴ 
+- Ａｉｍｂｏｔ
+- Ｅｎａｂｌｅ
+- Ｓｍｏｏｔｈ
+-  Ｓｈｏｗ Ｆｏｖ
+-  ＡＩＭｂｏｔ ｋｅｙ
+-  ｓｅｌｅｃｔｉｏｎ
+-  Ｂｏｎｅ ｓｅｌｅｃｔｉｏｎ
+-   Ｆｏｖ
+-   Ｆｏｖ ＥＳＰ
+-    Ｍａｘ. ｄｉｓｔａｎｃｅ
+-  ＤＩＦＦＥＲＥＮＴ
+- Ｅｎａｂｌｅｄ
+-    Ｔｅｌｅｐｏｒｔ ｖｉａ ＥＳＰ
+- Ｔｅｌｅｐｏｒｔ ｂｙ ｃｏｏｒｄｉｎａｔｅｓ
+- Ｔｅｌｅｐｏｒｔ ｂｙ ｋｅｙ
+-  Ｃｒｏｓｓｈａｉｒ
+-    ＦＰＳ
+-   Ｈｏｔｋｅｙｓ
+-  Ｆｏｎｔ
+-  Ｆｏｎｔ ｏｕｔｌｉｎｅ
+- Ｆｏｎｔ ｓｉｚｅ
+- ＣＯＬＯＲＳ
+-   Ａｌｌ ｃｏｌｏｒ ｓｅｔｔｉｎｇｓ ｆｏｒ ｅｓｐ
